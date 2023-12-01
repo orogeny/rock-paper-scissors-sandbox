@@ -51,9 +51,6 @@ const getRandomMove = () => {
     para.appendChild(node);
 
     document.body.appendChild(para);
-
-    // TODO Implement this method to update the DOM
-    // There are some images you can use in the images directory
   };
   
   const playButton = document.getElementById("play-btn");
